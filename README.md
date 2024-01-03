@@ -19,9 +19,11 @@ This data is a part of the paper uploaded to BioRxiv titled: "Fractality and Lac
 6. Python Notebook 5 (ML Classification analysis): Statistics validating the accuracy and sensitivity of the machine learning algorithms.
 7. R Notebook 1 (CPH Model Hazard Ratio Calculation): Code implementing the Cox Proprtional Hazards model to find out the hazard for each group divided by the log rank statistics (mentioned in manuscipt, Methods: Statistical Analyses).
 8. R Notebook 2 (Survival Analysis (KM curve)): Survival analysis using the Kaplam Meier estimator.
+
 9. TCGA_LGG_GBM_radiomicFeatures_clinicalDetails.xlsx --> Excel sheet containing clinical information of all the subjects
     
    fractal_lac_data.csv --> Calculated FD and lacunarity of the three subcomponents
 
    Dictionary.csv --> Dictionary explaining the abbreviations used in the fractal_lac_data.csv document.
-10. Folder 
+
+10. Folder "All_Tumor_masks_nii_files" contains the glioma masks (glioma region in the brain) of all subjects used in this study in NIfTI file format. The glioma masks were used as the input for calculating fractal dimension and lacunarity of the glioma subcomponents.
