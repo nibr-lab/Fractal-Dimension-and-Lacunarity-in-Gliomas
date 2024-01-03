@@ -8,6 +8,7 @@ This data is a part of the paper uploaded to BioRxiv titled: "Fractality and Lac
 # Contents:
 1. All codes used in the paper for visualization, calculation and analysis.
 2. Datasheets containing all the demographic and calculated information.
+3. Glioma mask images 
 
 ## Codes - File Description
 1. Python files - FD_Calculator and Lac_Calculator - to be initially run as python files on a bash terminal to calculate fractal dimension (FD) of the three glioma subcomponents as mentioned in the manuscript of either a single subject (to test the integrity of the code) or all the subjects at once (to be run once by following the commands in the code).
@@ -23,3 +24,4 @@ This data is a part of the paper uploaded to BioRxiv titled: "Fractality and Lac
    fractal_lac_data.csv --> Calculated FD and lacunarity of the three subcomponents
 
    Dictionary.csv --> Dictionary explaining the abbreviations used in the fractal_lac_data.csv document.
+10. Folder 
