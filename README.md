@@ -3,8 +3,6 @@
 
 This data is a part of the paper uploaded to BioRxiv titled: "Fractality and Lacunarity Measures of Glioma Subcomponents are Discriminative of IDH Status: A Quantitative Radiogenomics in Gliomas", doi: https://doi.org/10.1101/2023.12.28.573519
 
-& in Neuro-Oncology titled the same.
-
 # Contents:
 1. All codes used in the paper for visualization, calculation and analysis.
 2. Datasheets containing all the demographic and calculated information.
