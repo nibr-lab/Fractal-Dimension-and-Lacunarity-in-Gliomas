@@ -16,7 +16,7 @@ This data is a part of the paper uploaded to BioRxiv titled: "Fractality and Lac
 5. Python Notebook 4 (ML Classification): Detailed steps of the Machine Learning classification algorithm (train and test sets) and generation of relevant images and plots.
 6. Python Notebook 5 (ML Classification analysis): Statistics validating the accuracy and sensitivity of the machine learning algorithms.
 7. R Notebook 1 (CPH Model Hazard Ratio Calculation): Code implementing the Cox Proprtional Hazards model to find out the hazard for each group divided by the log rank statistics (mentioned in manuscipt, Methods: Statistical Analyses).
-8. R Notebook 2 (Survival Analysis (KM curve)): Survival analysis using the Kaplam Meier estimator.
+8. R Notebook 2 (Survival Analysis (KM curve)): Survival analysis using the Kaplan Meier estimator.
 
 9. TCGA_LGG_GBM_radiomicFeatures_clinicalDetails.xlsx --> Excel sheet containing clinical information of all the subjects
     
