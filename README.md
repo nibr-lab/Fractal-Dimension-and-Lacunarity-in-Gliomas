@@ -11,7 +11,7 @@ The data and codes are a part of the paper uploaded to BioRxiv titled: "Fractali
 
 ## Codes - File Description
 ### Codes related to calculation of Fractal Dimension and Lacunarity
-1. Python files - FD_Calculator and Lac_Calculator - to be initially run as python files on a bash terminal to calculate fractal dimension (FD) of the three glioma subcomponents as mentioned in the manuscript of either a single subject (to test the integrity of the code) or all the subjects at once (to be run once by following the commands in the code).
+1. Python files - FD_Calculator and Lac_Calculator (Calculates 2D fractal Dimension) - to be initially run as python files on a bash terminal to calculate fractal dimension (FD) of the three glioma subcomponents as mentioned in the manuscript of either a single subject (to test the integrity of the code) or all the subjects at once (to be run once by following the commands in the code).
 2. 3D Fractal Dimension Calculator (3D Frac) - Calculated Fractal Dimension across all three planes of the MR Image.
 3. 3D Lacunarity Calculator (3D Lac) - Calculates Lacunarity across all three planes of the MR Image. `3DLac_cor.ipynb` and `3DLac_sag.ipynb` are supporting notebooks required to run `3DLac.ipynb`.
 
