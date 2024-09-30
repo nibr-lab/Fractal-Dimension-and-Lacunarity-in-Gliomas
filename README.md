@@ -15,7 +15,7 @@ The data and codes are a part of the paper uploaded to BioRxiv titled: "Fractali
 2. 3D Fractal Dimension Calculator (3D Frac) - Calculated Fractal Dimension across all three planes of the MR Image.
 3. 3D Lacunarity Calculator (3D Lac) - Calculates Lacunarity across all three planes of the MR Image. `3DLac_cor.ipynb` and `3DLac_sag.ipynb` are supporting notebooks required to run `3DLac.ipynb`.
 
->> The output of 3DFrac.ipynb and 3DLac.ipynb is fractal_lac_data.csv
+> The output of 3DFrac.ipynb and 3DLac.ipynb is fractal_lac_data.csv
 
 ### Codes used for visualization, training and analysis
 1. Python Notebook 1 (Glioma Final Image): To visualize the MR images of gliomas and the generated masks (Mask numbers and color codes are mentioned within the notebook).
